@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- Page Setup ---
 st.set_page_config(page_title="iOS Calculator", layout="centered")
-
+st.title("Developed by Numair Amin")
 # --- Map emoji symbols to Python arithmetic operators ---
 emoji_to_operator = {
     "➕": "+",
